@@ -10,5 +10,6 @@ public class Frame implements Runnable{
             System.out.println("Failed");
         }
         System.out.println("Frame is produced.");
+
     }
 }
